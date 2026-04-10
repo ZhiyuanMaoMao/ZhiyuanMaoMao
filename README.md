@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Zhiyuan 👋
 
-<!--
-**ZhiyuanMaoMao/ZhiyuanMaoMao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ML Engineer & Game Developer.  
+Applying machine learning to build intelligent, interactive experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 Machine Learning
+
+| Project | Description | Result | Link |
+|---------|-------------|--------|------|
+| Kaggle Titanic | Survival classification — SVM, Random Forest, Gradient Boosting, Logistic Regression | Kaggle 0.78708 | [GitHub](https://github.com/ZhiyuanMaoMao/Kaggle-Titanic) |
+| Kaggle House Price | Regression — ensemble RF + Gradient Boosting with feature engineering | CV RMSE 0.1265 | [GitHub](https://github.com/ZhiyuanMaoMao/Kaggle-House-Price-Prediction) |
+
+---
+
+## 🎮 Game Development
+
+| Project | Description | Link |
+|---------|-------------|------|
+| God's Playground | 2.5D roguelike platformer released on Steam, 5-person indie team | [Steam](https://store.steampowered.com/app/4212770/Gods_Playground/) |
+
+---
+
+## 🛠 Tech Stack
+**ML:** Python · Scikit-learn · Pandas · NumPy · Matplotlib · Seaborn  
+**Game:** Unreal Engine · C++ · Houdini FX
+**Tools:** GitHub · Jupyter Notebook · VS Code 
+---
+
+📫 LinkedIn:...
