@@ -5,7 +5,7 @@ Applying machine learning to build intelligent, interactive experiences.
 
 ---
 
-## 🤖 Machine Learning
+## 🤖 Machine Learning/AI
 
 | Project | Description | Result | Link |
 |---------|-------------|--------|------|
