@@ -9,6 +9,7 @@ Applying machine learning to build intelligent, interactive experiences.
 
 | Project | Description | Result | Link |
 |---------|-------------|--------|------|
+| Kaggle MNIST | Digit recognition — FC Net vs CNN comparison with error analysis | CNN Val Acc 99.25% | [GitHub](https://github.com/ZhiyuanMaoMao/Kaggle_MNIST) |
 | Kaggle Titanic | Survival classification — SVM, Random Forest, Gradient Boosting, Logistic Regression | Kaggle 0.78708 | [GitHub](https://github.com/ZhiyuanMaoMao/Kaggle-Titanic) |
 | Kaggle House Price | Regression — ensemble RF + Gradient Boosting with feature engineering | CV RMSE 0.1265 | [GitHub](https://github.com/ZhiyuanMaoMao/Kaggle-House-Price-Prediction) |
 
